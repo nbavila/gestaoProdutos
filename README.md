@@ -15,4 +15,4 @@ Para executar este projeto, siga estas etapas:
 2. Clone este repositório para o seu computador:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/nbavila/gestaoProdutos.git
